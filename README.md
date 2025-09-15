@@ -68,6 +68,9 @@
   <img src="https://img.shields.io/badge/ChatGPT-00A4B1?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Copilot-7B5B6F?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Webflow-000000?style=for-the-badge&logo=webflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-00A3FF?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 ---
