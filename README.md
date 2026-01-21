@@ -75,6 +75,16 @@
 
 ---
 
+## AI Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stitch%20AI-000000?style=for-the-badge&logo=ai&logoColor=white" />
+</p>
+
+---
+
 ## Find Me
 
 <p align="left">
