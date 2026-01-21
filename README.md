@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm <img src="https://via.placeholder.com/1x1/3fa9f5/000000?text=Steven+Jimmy+Setiawan" alt="Steven Jimmy Setiawan" />
+  Hi, I'm Steven Jimmy Setiawan
 </h1>
 
 <hr />
